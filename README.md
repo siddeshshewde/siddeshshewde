@@ -26,7 +26,7 @@ Currently working at <a href="https://media.net/">Media.net</a>
 
 ![Sid's github stats](https://github-readme-stats.siddeshshewde.vercel.app/api?username=siddeshshewde&show_icons=true&theme=tokyonight)
 
-[![ReadMe Card](https://github-readme-stats.siddeshshewde.vercel.app/api/pin/?username=siddeshshewde&repo=Competitive_Programming_v2)]
+![ReadMe Card](https://github-readme-stats.siddeshshewde.vercel.app/api/pin/?username=siddeshshewde&repo=Competitive_Programming_v2)
 
 
 <!--

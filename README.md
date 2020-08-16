@@ -1,7 +1,7 @@
 <h2> नमस्ते (Namaste)🙏🏻, I'm Siddesh Shewde <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif"> </h2>
 Currently working at <a href="https://media.net/">Media.net</a>
 
-<br>
+<br><br>
 
 <a href="https://discord.gg/UZDJNv">
   <img align="left" alt="Sid's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
@@ -22,7 +22,7 @@ Currently working at <a href="https://media.net/">Media.net</a>
   <img align="left" alt="Sid's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
-<br>
+<br><br>
 
 ![Sid's github stats](https://github-readme-stats.vercel.app/api?username=siddeshshewde&show_icons=true&theme=tokyonight)
 

@@ -35,4 +35,6 @@ Currently working at <a href="https://media.net/">Media.net</a>
 
 <img src="https://media.giphy.com/media/8L1Ln4gOOabZIz0Q0s/giphy.gif" width="40" height="40">
 
+<a href="https://dev.to/codeperfectplus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="codeperfectplus" height="40" width="40" /></a>
+
 -->

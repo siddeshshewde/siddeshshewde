@@ -26,9 +26,9 @@ Currently working at <a href="https://media.net/">Media.net</a>
 
 ![Sid's github stats](https://github-readme-stats.siddeshshewde.vercel.app/api?username=siddeshshewde&show_icons=true&theme=tokyonight)
 
-![ReadMe Card](https://github-readme-stats.siddeshshewde.vercel.app/api/pin/?username=siddeshshewde&repo=Competitive_Programming_v2)
+[![ReadMe Card](https://github-readme-stats.siddeshshewde.vercel.app/api/pin/?username=siddeshshewde&repo=Competitive_Programming_v2)](https://github.com/siddeshshewde/Competitive_Programming_v2)
 
-[![Top Langs](https://github-readme-stats.siddeshshewde.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.siddeshshewde.vercel.app/api/top-langs/?username=siddeshshewde)](https://github.com/siddeshshewde/github-readme-stats)
 
 <!--
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400">

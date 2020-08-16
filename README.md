@@ -28,6 +28,7 @@ Currently working at <a href="https://media.net/">Media.net</a>
 
 ![ReadMe Card](https://github-readme-stats.siddeshshewde.vercel.app/api/pin/?username=siddeshshewde&repo=Competitive_Programming_v2)
 
+[![Top Langs](https://github-readme-stats.siddeshshewde.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400">
